@@ -26,6 +26,8 @@ def test(file_size_mb):
 
 
 if __name__ == "__main__":
+    print("HTTP download speed test")
+
     test(1)
     test(1)
     test(10)
