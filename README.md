@@ -1,6 +1,14 @@
 # SpeedTest
 
-HTTP download speed test using python.
+HTTP download speed test in Python.
+
+## Usage
+
+No pip packages required, just run the script with Python 3:
+
+```
+$ python speed_test.py
+```
 
 ## Author
 
